@@ -1,0 +1,483 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>MASUK SEKARANG.Click</Name>
+    <Description />
+    <StartTime>2023-02-03 17:48:30</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Login - OSS Berbasis Risiko]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Login - OSS Berbasis Risiko]]></Name>
+          </Object>
+          <Object>
+            <Type>Link</Type>
+            <Name><![CDATA[MASUK SEKARANG]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[MASUK SEKARANG]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[A]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>eb2782f7bfb544189ef410243e392661</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>OSS</Name>
+    <Description>&lt;DIV align=center&gt;&lt;table align='center' border='5' cellpadding='1' cellspacing='1' width='100%' title='C:\Users\Ali Mahfud\Documents\UFT One\webtest\Res1\030223174834.png' frame='hsides'&gt;&lt;caption&gt;Desktop - Capture Bitmap&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;OSS&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tfoot&gt;&lt;tr&gt;&lt;td align='center'&gt;&lt;img border='2px' src='C:\Users\Ali Mahfud\Documents\UFT One\webtest\Res1\030223174834.png' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tfoot&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Page ScreenShot&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/DIV&gt;</Description>
+    <StartTime>2023-02-03 17:48:36</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>c557053fd31d46cc9b4781285e10c25d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>[ WebEdit ].Set</Name>
+    <Description>"f4078"</Description>
+    <StartTime>2023-02-03 17:48:41</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Login - OSS Berbasis Risiko]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Login - OSS Berbasis Risiko]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[[ WebEdit ]]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA["f4078"]]></OperationData>
+      </TestObject>
+      <IconKey>250c2f5e44ce4cc98cd28aaa1ca99ec0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>OSS</Name>
+    <Description>&lt;DIV align=center&gt;&lt;table align='center' border='5' cellpadding='1' cellspacing='1' width='100%' title='C:\Users\Ali Mahfud\Documents\UFT One\webtest\Res1\030223174845.png' frame='hsides'&gt;&lt;caption&gt;Desktop - Capture Bitmap&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;OSS&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tfoot&gt;&lt;tr&gt;&lt;td align='center'&gt;&lt;img border='2px' src='C:\Users\Ali Mahfud\Documents\UFT One\webtest\Res1\030223174845.png' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tfoot&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Page ScreenShot&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/DIV&gt;</Description>
+    <StartTime>2023-02-03 17:48:46</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>c557053fd31d46cc9b4781285e10c25d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Masukkan kata sandi.Set</Name>
+    <Description>"gLkBtc43ME"</Description>
+    <StartTime>2023-02-03 17:48:47</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Login - OSS Berbasis Risiko]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Login - OSS Berbasis Risiko]]></Name>
+          </Object>
+          <Object>
+            <Type>WebEdit</Type>
+            <Name><![CDATA[Masukkan kata sandi]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA["gLkBtc43ME"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[password]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[WebEdit]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[INPUT]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>250c2f5e44ce4cc98cd28aaa1ca99ec0</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>OSS</Name>
+    <Description>&lt;DIV align=center&gt;&lt;table align='center' border='5' cellpadding='1' cellspacing='1' width='100%' title='C:\Users\Ali Mahfud\Documents\UFT One\webtest\Res1\030223174851.png' frame='hsides'&gt;&lt;caption&gt;Desktop - Capture Bitmap&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;OSS&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tfoot&gt;&lt;tr&gt;&lt;td align='center'&gt;&lt;img border='2px' src='C:\Users\Ali Mahfud\Documents\UFT One\webtest\Res1\030223174851.png' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tfoot&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Page ScreenShot&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/DIV&gt;</Description>
+    <StartTime>2023-02-03 17:48:52</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>c557053fd31d46cc9b4781285e10c25d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Masuk.Click</Name>
+    <Description />
+    <StartTime>2023-02-03 17:48:52</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Login - OSS Berbasis Risiko]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Login - OSS Berbasis Risiko]]></Name>
+          </Object>
+          <Object>
+            <Type>WebButton</Type>
+            <Name><![CDATA[Masuk]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[button]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[Masuk]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[BUTTON]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>384477813a584ef5a64cfaeb1994ef36</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>OSS</Name>
+    <Description>&lt;DIV align=center&gt;&lt;table align='center' border='5' cellpadding='1' cellspacing='1' width='100%' title='C:\Users\Ali Mahfud\Documents\UFT One\webtest\Res1\030223174857.png' frame='hsides'&gt;&lt;caption&gt;Desktop - Capture Bitmap&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;OSS&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tfoot&gt;&lt;tr&gt;&lt;td align='center'&gt;&lt;img border='2px' src='C:\Users\Ali Mahfud\Documents\UFT One\webtest\Res1\030223174857.png' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tfoot&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Page ScreenShot&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/DIV&gt;</Description>
+    <StartTime>2023-02-03 17:48:58</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>c557053fd31d46cc9b4781285e10c25d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Login - OSS Berbasis Risiko</Name>
+    <Description>Page</Description>
+    <StartTime>2023-02-03 17:48:30</StartTime>
+    <Duration>33</Duration>
+    <Result>Passed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Login - OSS Berbasis Risiko]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[Login - OSS Berbasis Risiko]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>8a6ab9d945314e60aebb3d4f15ce011d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>F.Click</Name>
+    <Description />
+    <StartTime>2023-02-03 17:49:03</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Login - OSS Berbasis Risiko]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[OSS Berbasis Risiko]]></Name>
+          </Object>
+          <Object>
+            <Type>WebElement</Type>
+            <Name><![CDATA[F]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[innertext]]></Name>
+            <Value><![CDATA[F]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[SPAN]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[acc_name]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>af87619884504dddb979b43ce5ea3cca</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="User">
+<Data>
+    <Name>OSS</Name>
+    <Description>&lt;DIV align=center&gt;&lt;table align='center' border='5' cellpadding='1' cellspacing='1' width='100%' title='C:\Users\Ali Mahfud\Documents\UFT One\webtest\Res1\030223174907.png' frame='hsides'&gt;&lt;caption&gt;Desktop - Capture Bitmap&lt;/caption&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;OSS&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tfoot&gt;&lt;tr&gt;&lt;td align='center'&gt;&lt;img border='2px' src='C:\Users\Ali Mahfud\Documents\UFT One\webtest\Res1\030223174907.png' /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tfoot&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;Page ScreenShot&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/DIV&gt;</Description>
+    <StartTime>2023-02-03 17:49:08</StartTime>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>c557053fd31d46cc9b4781285e10c25d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Keluar.Click</Name>
+    <Description />
+    <StartTime>2023-02-03 17:49:09</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Login - OSS Berbasis Risiko]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[OSS Berbasis Risiko]]></Name>
+          </Object>
+          <Object>
+            <Type>WebButton</Type>
+            <Name><![CDATA[Keluar]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[type]]></Name>
+            <Value><![CDATA[button]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[Keluar]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[html tag]]></Name>
+            <Value><![CDATA[BUTTON]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>384477813a584ef5a64cfaeb1994ef36</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>OSS Berbasis Risiko</Name>
+    <Description>Page</Description>
+    <StartTime>2023-02-03 17:49:03</StartTime>
+    <Duration>16</Duration>
+    <Result>Passed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Login - OSS Berbasis Risiko]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[OSS Berbasis Risiko]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+      </TestObject>
+      <IconKey>8a6ab9d945314e60aebb3d4f15ce011d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Login - OSS Berbasis Risiko</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2023-02-03 17:48:30</StartTime>
+    <Duration>49</Duration>
+    <Result>Passed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[Login - OSS Berbasis Risiko]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+      </TestObject>
+      <IconKey>4351159949da415e8ffa4e3412d1e856</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2023-02-03 17:48:25</StartTime>
+    <Duration>54</Duration>
+    <Result>Passed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>cd39ffad693c40ef843126e0feb7acdd</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2023-02-03 17:48:18</StartTime>
+    <Duration>61</Duration>
+    <Result>Passed</Result>
+    <Extension>
+      <IconKey>9986b2726e324df2978ca4469a84eeb1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>Chromium Edge</Name>
+        <Path>C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe</Path>
+        <Version>109.0</Version>
+        <Technology>web</Technology>
+        <Reserved />
+        <AdditionalInfos>
+          <Info>https://oss.go.id/</Info>
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>webtest</Name>
+    <ToolName>Micro Focus UFT One</ToolName>
+    <ToolVersion>2022</ToolVersion>
+    <ToolVersionStringLiteral>2022</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2023-02-03 17:48:14</StartTime>
+    <Duration>65</Duration>
+    <Result>Passed</Result>
+    <InputParameters />
+    <Extension>
+      <ParallelRunnerEnvInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ID />
+        <Manufacturer />
+        <Model />
+        <OsType />
+        <OsVersion />
+        <DesktopBrowser>Chromium Edge</DesktopBrowser>
+        <ErrorMessage />
+      </ParallelRunnerEnvInfo>
+      <IconKey>d1047d6fdbd04f2daf6c7b47bf425882</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+07:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>Ali Mahfud</User>
+      <CpuInfo>Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz</CpuInfo>
+      <NumberOfCores>6</NumberOfCores>
+      <TotalMemory>8191</TotalMemory>
+      <HostName>DESKTOP-08S56LD</HostName>
+      <OSInfo>Windows 10 1909 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res1</ResultName>
+    <RunStartTime>2023-02-03 17:48:14</RunStartTime>
+    <Timezone>+07:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus UFT One</OrchestrationToolName>
+    <OrchestrationToolVersion>2022</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>2022</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>
